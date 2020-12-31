@@ -1,0 +1,10 @@
+2020-12-21 17:49:16,652 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:33] - DEBUG: debug
+2020-12-21 17:49:16,652 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:34] - INFO: info
+2020-12-21 17:49:16,652 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:35] - WARNING: 警告
+2020-12-21 17:49:16,652 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:36] - ERROR: 报错
+2020-12-21 17:49:16,652 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:37] - CRITICAL: 严重
+2020-12-21 17:50:17,095 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:33] - DEBUG: debug
+2020-12-21 17:50:17,102 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:34] - INFO: info
+2020-12-21 17:50:17,102 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:35] - WARNING: 警告
+2020-12-21 17:50:17,102 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:36] - ERROR: 报错
+2020-12-21 17:50:17,102 - D:/SOFTWARE_DATA/PycharmProject/PycharmProjects/untitled/autotesttv/report/test1.py[line:37] - CRITICAL: 严重
